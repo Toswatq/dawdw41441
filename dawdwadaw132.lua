@@ -120,7 +120,7 @@ button.MouseButton1Click:Connect(function()
         showMessage("Please enter a key!")  
     elseif textBox.Text == "f831761W" then
         frame:Destroy()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/Toswatq/534adw/refs/heads/main/dawdawd.lua"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Toswatq/dawdw41441/refs/heads/main/dawdwaew123.lua"))()
     else
         attempts = attempts + 1
         updateAttempts()
